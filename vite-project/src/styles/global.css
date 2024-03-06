@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.table-container {
+    position: relative;
+    margin: 30px 10px 30px 10px;
+    margin-top: 10px;
+
+}
+
+.title {
+    margin-top: 50px;
+    font-size: x-large;
+    margin-left: 237px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#root {
+    margin-left: 340px;
+    width: 565px;
+    background-color: violet;
+}
+
+
+.btn-delete {
+    background-color: violet;
+    height: 21px;
+    width: 70px;
+}

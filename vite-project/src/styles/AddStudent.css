@@ -1,0 +1,12 @@
+.addStudent {
+    background-color: violet;
+    color: black;
+    flex-direction: column;
+    
+}
+
+.btn-add-student {
+    background-color: violet;
+    width: 175px;
+    height: 21px;
+}
